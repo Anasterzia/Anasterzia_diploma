@@ -1,0 +1,8 @@
+Studio-42,elFinder-2.1.57,studio-42/elfinder,php,>=5.2,require
+Studio-42,elFinder-2.1.57,studio-42/elfinder,barryvdh/elfinder-flysystem-driver,VolumeDriverforelFindertouseFlysystemasaroot.,require
+jquery-form,form-4.3.0,jquery-form/form,components/jquery,>=1.7.2,require
+FineUploader,fine-uploader-5.16.2,alpha,fineuploader/php-traditional-server,1.0.1,require
+FineUploader,fine-uploader-5.16.2,alpha,fineuploader/php-s3-server,1.1.0,require
+Automattic,wp-calypso-6.12.0-beta1,automattic/wp-calypso,wp-phpunit/wp-phpunit,^5.4,require
+Automattic,wp-calypso-6.12.0-beta1,automattic/wp-calypso,automattic/jetpack-codesniffer,^2.1,require
+transloadit,uppy-uppy-1.26.0,transloadit/uppy-aws-demo,aws/aws-sdk-php,^3.31,require
